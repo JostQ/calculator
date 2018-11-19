@@ -312,6 +312,7 @@ function add(){
   console.log(result)
   document.getElementById("calcul").value = result
   clear()
+  a = result
 }
 
 function multiply(){
@@ -319,6 +320,7 @@ function multiply(){
   console.log(result)
   document.getElementById("calcul").value = result
   clear()
+  a = result
 }
 
 function substract(){
@@ -326,6 +328,7 @@ function substract(){
   console.log(result)
   document.getElementById("calcul").value = result
   clear()
+  a = result
 }
 
 function divide(){
@@ -333,6 +336,7 @@ function divide(){
   console.log(result)
   document.getElementById("calcul").value = result
   clear()
+  a = result
 }
 
 function display(){
